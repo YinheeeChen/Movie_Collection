@@ -1,37 +1,40 @@
 # Movie Collection
 
-#### 介绍
-The implementation of an easy movie collection system using Java
+## Description
+The Movie Collection project is an easy-to-use movie management system implemented in Java. This application allows users to manage their movie collections efficiently.
 
-#### 软件架构
-软件架构说明
+## Software Architecture
+The project is structured using Java, ensuring a robust and scalable architecture for handling movie data.
 
+## Installation Guide
+To install and set up the Movie Collection application, follow these steps:
 
-#### 安装教程
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/YinheeeChen/Movie_Collection.git
+    cd Movie_Collection
+    ```
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+2. Ensure you have Java Development Kit (JDK) installed. You can download it from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
-#### 使用说明
+3. Compile the Java files:
+    ```sh
+    javac -d bin src/*.java
+    ```
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+4. Run the application:
+    ```sh
+    java -cp bin Main
+    ```
 
-#### 参与贡献
+## Usage Instructions
+To use the Movie Collection application, run the main class and follow the on-screen instructions to manage your movie collection.
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## Acknowledgements
+- Special thanks to all the contributors and supporters of this project.
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Contact
+For any questions or inquiries, please contact [YinheeeChen](https://github.com/YinheeeChen).
